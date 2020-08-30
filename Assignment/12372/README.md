@@ -12,3 +12,4 @@
 |   3   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/12372/outfile.txt" > outfile.txt         | outfile.txt      |
 
 ![4](https://user-images.githubusercontent.com/60235679/91651409-f4e32980-ea51-11ea-80a4-349ada60a3b8.png)
+![1](https://user-images.githubusercontent.com/60235679/91671446-6cfe2d80-eaec-11ea-80d7-cb00a3827a8f.png)
