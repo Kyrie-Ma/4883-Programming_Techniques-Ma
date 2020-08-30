@@ -1,7 +1,7 @@
-## 11498-Division of Nlogonia
+## 11172-Relational Operators
 ### Yuankai Ma
 ### Description:
-#### UVA question 11498-Division of Nlogonia
+#### UVA question 11172-Relational Operators
 
 ### Files
 
