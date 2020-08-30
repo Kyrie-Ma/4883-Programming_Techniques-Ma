@@ -1,4 +1,5 @@
 #include <iostream>
+#define endl "\n"
 using namespace std;
 int  main(){
     int K, N, M, X, Y;
@@ -25,4 +26,6 @@ int  main(){
         }
         cin >> K;
     }
+    cout << endl;
+    return 0;
 }
