@@ -26,6 +26,5 @@ int  main(){
         }
         cin >> K;
     }
-    cout << endl;
     return 0;
 }
