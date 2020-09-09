@@ -18,4 +18,7 @@ for i in range(int(n)):
             a = -2
             while stack[a] != '(':
                 b = a+1
-                print(stack[b],  
+                print(stack[b])
+                stack.pop()
+                a--;
+            stack.pop()
