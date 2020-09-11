@@ -68,17 +68,26 @@ int main()
 		{
 			runNum++;
 			int stacks = playGame(piles, num);
-			cout << stacks << " piles remaining: ";
+      if (stacks == 1){
+        cout << stacks << " pile remaining: ";
+      }
+      else
+			  cout << stacks << " piles remaining: ";
 			//displays number of cards per stack after completion
 			for (int i = 0; i < stacks; i++)
 			{
-				cout << piles[i].getNumCards() << ' ';
+        if(i+1==stacks){
+          cout << piles[i].getNumCards();
+        }
+        else
+				  cout << piles[i].getNumCards() << ' ';
 			}
 			cout << '\n';
 		}
 		//deallocation of array
 		delete[] piles;
 	}
+  cout << '\n';
 	//End of program
 	return 0;
 }
