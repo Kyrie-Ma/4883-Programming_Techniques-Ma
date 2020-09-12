@@ -7,8 +7,8 @@
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main1.cpp" > Main.cpp         | Main cpp file      |
-|   2   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main1.cpp" > Main.cpp         | Main cpp file      |
+|   1   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main1.cpp" > Main.cpp         | The solution that I did for CS2 homework which accept by debug and did not accept by online judge for some reason|
+|   2   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main2.cpp" > Main.cpp         | the solution that I redo it in a different way which accepty by both debug and online judge |
 |   3   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/infile.txt" > infile.txt         | infile.txt      |
 |   4   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/outfile.txt" > outfile.txt         | outfile.txt      |
 
