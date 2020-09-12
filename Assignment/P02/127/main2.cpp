@@ -1,5 +1,5 @@
 // Since my first solution did not accept for I don't know what is wrong  :)  , because it accepty by the debug, so I redo it in a different way, which is the solution below. 
-//But after I finsh it the online jude website is temporarily unavailable, so the upload time will be late(who need when it open)  :) . 
+//But after I finsh it the Online Judge website said "This site is temporarily unavailable.", so the upload time will be late(who need when it open)  :) . 
 
 #include <iostream>
 #include <vector>
