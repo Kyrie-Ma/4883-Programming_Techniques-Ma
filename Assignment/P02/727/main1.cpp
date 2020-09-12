@@ -69,5 +69,6 @@ int main() {
       opera.pop();
     }
   }
+  cout << endl;
   return 0;
 }
