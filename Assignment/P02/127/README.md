@@ -7,9 +7,10 @@
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main.cpp" > Main.cpp         | Main cpp file      |
-|   2   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/infile.txt" > infile.txt         | infile.txt      |
-|   3   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/outfile.txt" > outfile.txt         | outfile.txt      |
+|   1   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main1.cpp" > Main.cpp         | Main cpp file      |
+|   2   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/main1.cpp" > Main.cpp         | Main cpp file      |
+|   3   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/infile.txt" > infile.txt         | infile.txt      |
+|   4   | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/blob/master/Assignment/P02/127/outfile.txt" > outfile.txt         | outfile.txt      |
 
 ![2020-09-11 (7)](https://user-images.githubusercontent.com/60235679/92979736-3368e300-f459-11ea-9868-a893e1d036f1.png)
 
