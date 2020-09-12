@@ -19,6 +19,6 @@
 ![2020-09-11 (6)](https://user-images.githubusercontent.com/60235679/92979688-0f0d0680-f459-11ea-8403-6956598a4674.png)
 ![2020-09-11 (5)](https://user-images.githubusercontent.com/60235679/92979691-103e3380-f459-11ea-8256-8850547b9ab1.png)
 ![2020-09-11 (8)](https://user-images.githubusercontent.com/60235679/92979930-d4f03480-f459-11ea-90e4-700c118e29e8.png)
-### This the result that I redo a new solution. But when I finish it the Online Judge website is said "This site is temporarily unavailable.". So it will be late for who knows how late :) .
+### This the result that I redo a new solution. :)
 ![2020-09-11 (13)](https://user-images.githubusercontent.com/60235679/92985218-2c040280-f476-11ea-9379-bfea0252a3a7.png)
-![2020-09-11 (15)](https://user-images.githubusercontent.com/60235679/92985238-67063600-f476-11ea-9b8d-19083d08b356.png)
+![2020-09-11 (16)](https://user-images.githubusercontent.com/60235679/92985367-5bffd580-f477-11ea-90b7-8d30549a1602.png)
