@@ -1,3 +1,5 @@
+// This is a solution that I did for CS2 homework which accept by debug and did not accept by online judge for some reason
+
 #include <iostream>
 #include <string>
 #include <fstream>
