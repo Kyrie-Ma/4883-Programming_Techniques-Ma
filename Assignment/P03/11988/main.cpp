@@ -1,7 +1,6 @@
 #include<iostream>
 #include<stack>
 #include<queue>
-#include <cstdio>
 #include <cstring>
 using namespace std;
 int main(){
