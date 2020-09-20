@@ -17,7 +17,7 @@ int main() {
       }
     }
     int y = 0;
-    char command[7] = {};
+    char command[] = " ";
     queue<int> tempQueue;
     queue<int> myQueue[1001];
     cout << "Scenario #" << Case++ << endl;
