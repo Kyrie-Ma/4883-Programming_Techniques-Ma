@@ -1,5 +1,6 @@
 ## 10130 - SuperSale
 ### Yuankai Ma
+![2020-10-21 (2)](https://user-images.githubusercontent.com/60235679/96708385-cb15f700-135e-11eb-9158-eec968aea1c0.png)
 
 ### Description: 
     Count the maximum value in certain weight that can take from the market.
