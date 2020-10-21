@@ -1,5 +1,7 @@
 ## 10684 - The jackpot
 ### Yuankai Ma
+![2020-10-21](https://user-images.githubusercontent.com/60235679/96675982-e3235180-1331-11eb-9951-02c14872cace.png)
+
 ### Description: 
     Count the maximum possible gain out of a sequence of bets. If no possibility to win money output message "Losing streak"
 
