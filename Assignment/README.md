@@ -10,4 +10,4 @@
 | A05 | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/tree/master/Assignment/A05" > A05 | Presentation of uva |
 | A06 | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/tree/master/Assignment/A06" > A06 | 2 uva program walk through|
 | PSet1(10183) | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/tree/master/Assignment/PSet1(10183)" > PSet1(10183) | 1 uva program |
-| PSet3(299) | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/tree/master/Assignment/PSet3" > PSet3(299) | 1 uva program |
+| PSet3(299) | <a href="https://github.com/Kyrie-Ma/4883-Programming_Techniques-Ma/tree/master/Assignment/PSet3(299)" > PSet3(299) | 1 uva program |
