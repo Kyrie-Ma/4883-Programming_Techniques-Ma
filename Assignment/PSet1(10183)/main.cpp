@@ -3,45 +3,42 @@
 #include <stack>
 #include <list> 
 #include <vector>
-
+#include <climits>
 using namespace std;
-
 int main() {
-  int long a, b;
-  int temp;
-  cin >> a >> b;
-  while(a != 0 && b!= 0){
-    int count = 0;
-    vector<int> Fibs;
-    Fibs.push_back(1);
-    Fibs.push_back(2);
-    temp = Fibs[0] + Fibs[1];
+  double a, b;
+  double temp;
+  vector<double> Fibs;
+  Fibs.push_back(1);
+  Fibs.push_back(2);
+  temp = Fibs[0] + Fibs[1];
+  for (int i = 1; i < 481; i++){
+    temp = Fibs[i] + Fibs[i-1];
     Fibs.push_back(temp);
-    /*
-    if((temp >= a) && (temp <= b)){
-      count++;
+  }
+  int SIZE = Fibs.size();
+  cin >> a >> b;
+  while(a+b!=0){
+    int count = 0;
+  /*
+    if(b == 0){
+      cout << count;
+      cin >> a >> b;
+      //break;
+    }
+    if((a == 0) && (b == 0)){
+      break;
     }
     */
-    int i = 1;
-    while(temp <= b){
-      temp = Fibs[i] + Fibs[i+1];
-      Fibs.push_back(temp);
-      i++;
-      /*
-      if((temp >= a) && (temp <= b)){
-        count++;
-      }
-      */
-    }
-    int SIZE = Fibs.size();
-    //cout << "size " << Fibs.size() << endl;
     for(int j = 0; j<SIZE; j++){
-      if((Fibs[j]>= a) && (Fibs[j]<=b)){
-        //cout << "a " << a << " Fibs[j] " << Fibs[j] << " b " << b << endl;
-        count++;
+      if(Fibs[j]>= a){
+        if(Fibs[j]<=b){
+          count++;
+        }
       }
     }
     cout << count << endl;
     cin >> a >> b;
   }
+  return 0;
 }
